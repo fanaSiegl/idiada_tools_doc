@@ -43,6 +43,9 @@ def cleanUp():
     
     repositoryPath = os.path.join(targetDir, '.git')
     shutil.rmtree(repositoryPath)
+    
+    repositoryPath = os.path.join(targetDir, '.gitignore')
+    shutil.rmtree(repositoryPath)
         
     buildScript = os.path.join(targetDir, 'build.py')
     os.remove(buildScript)
