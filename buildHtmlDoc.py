@@ -10,6 +10,7 @@ SPHINX_DOC = os.path.dirname(os.path.realpath(__file__))
 SPHINX_SOURCE = os.path.join(SPHINX_DOC, 'source')
 SPHINX_DOCTREES = os.path.join(SPHINX_DOC, 'build', 'doctrees')
 SPHINX_HTML = os.path.join(SPHINX_DOC, 'build', 'html')
+SPHINX_BUILD = os.path.join(SPHINX_DOC, 'sphinx-build.py')
 
 OUTPUT_NAME = 'index.rst'
 
@@ -71,7 +72,8 @@ def main():
     fo.close()
     
     # create local documentation
-    os.system('sphinx-build -b html -d %s %s %s' % (SPHINX_DOCTREES, SPHINX_SOURCE, SPHINX_HTML))
+    os.system('python %s -b html -d %s %s %s' % (
+        SPHINX_BUILD, SPHINX_DOCTREES, SPHINX_SOURCE, SPHINX_HTML))
     
     print "Build finished."
        
