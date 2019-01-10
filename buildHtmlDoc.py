@@ -30,6 +30,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`'''
 
+SPHINX_SECTION_HIERARCHY = ['-', '^', '"']
+
 #===============================================================================
 
 def getToolGroupString(groupName):
@@ -54,23 +56,52 @@ def getDocFileContent(path):
 
 #=============================================================================
 
+def analyseLevel(newLevel):
+    
+    
+    
+    section = ''
+    for level, levelName in enumerate(newLevel):
+        
+        levelName = levelName.replace('_', ' ')
+        if levelName not in sectionsCreated:
+            section += '%s\n' % levelName
+            section += '%s\n' % str(len(levelName)*SPHINX_SECTION_HIERARCHY[level])
+            
+            sectionsCreated.append(levelName)
+                
+    return section
+
+#=============================================================================
+
+sectionsCreated = list()
+
+#=============================================================================
+
 def main():
     
     content = HEADER
-    
-    for item in os.listdir(SPHINX_SOURCE):
-        if os.path.isdir(os.path.join(SPHINX_SOURCE, item)):
-            content += getToolGroupString(item)
-            for toolDocFileName in os.listdir(os.path.join(SPHINX_SOURCE, item)):
-                toolDocPath = os.path.join(SPHINX_SOURCE, item, toolDocFileName)
-                content += getDocFileContent(toolDocPath)
+    dirStructure = list()
+    for root, dirs, files in os.walk(SPHINX_SOURCE, topdown=True):
+        for name in files:
+            fileExt = os.path.splitext(name)[1]
+            if fileExt == '.txt':
+                toolDocPath = os.path.join(root, name)
+                dirStructure = toolDocPath.replace(SPHINX_SOURCE, '')
+                dirStructure = dirStructure.replace(name, '')
+                parts = dirStructure.split(os.path.sep)
+                dirStructure = [part for part in parts if len(part) > 0]
 
-    content += FOOTER
+                levelName = analyseLevel(dirStructure[:-1])
+                content += levelName
+                content += getDocFileContent(toolDocPath)
+    
+#     content += FOOTER
     
     fo = open(os.path.join(SPHINX_SOURCE, OUTPUT_NAME), 'wt')
     fo.write(content)
     fo.close()
-    
+     
     # create local documentation
     os.system('python %s -b html -d %s %s %s' % (
         SPHINX_BUILD, SPHINX_DOCTREES, SPHINX_SOURCE, SPHINX_HTML))
