@@ -15,7 +15,7 @@ import sys
 import os
 import time
 
-revision = 'V.0.0.1'
+revision = 'V.1.0.0'
 modifiedBy = 'Frantisek Siegl <frantisek.siegl@idiada.cz>'
 lastModified = time.strftime('%d/%m/%Y %H:%M:%S')
 
@@ -33,7 +33,7 @@ TOOL_NAME = 'IDIADA tools'
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.pngmath', 'sphinx.ext.ifconfig',
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode']
 
 # Add any paths that contain templates here, relative to this directory.
@@ -105,7 +105,7 @@ html_theme = 'default'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -129,7 +129,7 @@ html_theme = 'default'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = []
+html_static_path = ['_static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
