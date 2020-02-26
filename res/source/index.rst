@@ -1,4 +1,4 @@
-IDIADA script documentation
+IDIADA tools documentation
 ===========================
 
 .. toctree::
@@ -46,9 +46,9 @@ ANSA tools
 
 `checks (remote CZ)`_ - IDIADA ANSA checks documentation.
 
-.. _clip: ./DE/ANSA_tools/clip/clip.html
+.. _clip (remote DE): ./DE/ANSA_tools/clip/clip.html
 
-`clip`_ - tool for creating clips
+`clip (remote DE)`_ - tool for creating clips
 
 .. _coorSys4gaps (remote CZ): ./CZ/ANSA_tools/coorSys4gaps/coorSys4gaps.html
 
@@ -156,9 +156,9 @@ META tools
 
 MS Office tools
 ---------------
-.. _pptCreateFromXls (remote CZ): ./CZ/MS_Office_tools/pptCreateFromXls/pptCreateFromXls.html
+.. _pptCreateFromXls: ./IN/MS_Office_tools/pptCreateFromXls/pptCreateFromXls.html
 
-`pptCreateFromXls (remote CZ)`_ - Python script for generation of Powerpoint presentation based on CSV.
+`pptCreateFromXls`_ - Python script for generation of Powerpoint presentation based on CSV.
 
 
 Materials tools
@@ -177,13 +177,21 @@ Queue tools
 
 development tools
 -----------------
-.. _newPyProject (remote CZ): ./CZ/development_tools/newPyProject/newPyProject.html
+.. _ansaToolsCompiler (remote CZ): ./CZ/development_tools/ansaToolsCompiler/ansaToolsCompiler.html
 
-`newPyProject (remote CZ)`_ - script for new python project creation
+`ansaToolsCompiler (remote CZ)`_ - ANSA-button-based script for compiling and exporting existing ansaTools.
 
-.. _pyProjectInstaller (remote CZ): ./CZ/development_tools/pyProjectInstaller/pyProjectInstaller.html
+.. _newPyProject: ./IN/development_tools/newPyProject/newPyProject.html
 
-`pyProjectInstaller (remote CZ)`_ - script for new python project installation.
+`newPyProject`_ - script for new python project creation
+
+.. _pyProjectInstaller: ./IN/development_tools/pyProjectInstaller/pyProjectInstaller.html
+
+`pyProjectInstaller`_ - script for new python project installation.
+
+.. _tool_documentation: ./IN/development_tools/tool_documentation/tool_documentation.html
+
+`tool_documentation`_ - script for IDIADA tools documentation generation.
 
 
 material database
@@ -192,9 +200,9 @@ material database
 
 `material_db (V.0.0.14, remote CZ)`_ - Python application for material property comparison.
 
-.. _material_db (V.0.0.13, local): ./DE/material_database/material_db/material_db.html
+.. _material_db (V.0.0.13, remote DE): ./DE/material_database/material_db/material_db.html
 
-`material_db (V.0.0.13, local)`_ - Python application for material property comparison.
+`material_db (V.0.0.13, remote DE)`_ - Python application for material property comparison.
 
 
 solver output analysis

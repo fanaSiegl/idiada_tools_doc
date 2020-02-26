@@ -204,7 +204,11 @@ class ToolGroup(object):
                     locations.append(toolItem.getLocation())
                 # same version available locally
                 if len(versions) == 1 and utils.getLocalLocation() in locations:
-                    tools.append(toolItems[0])
+                    
+                    for t in toolItems:
+                        if t.isLocal():
+                            tools.append(t)
+                            break
                 # same version available in remote locations
                 elif len(versions) == 1:
                     tools.append(toolItems[0])
