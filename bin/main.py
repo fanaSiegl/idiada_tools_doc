@@ -280,7 +280,7 @@ class ToolLocation(object):
 
 class ToolDocumentation(object):
 
-    HEADER = '''IDIADA script documentation
+    HEADER = '''IDIADA tools documentation
 ===========================
 
 .. toctree::
@@ -321,9 +321,15 @@ Indices and tables
     
     def create(self):
             
-        # create local documentation
-        os.system('/usr/bin/sphinx-build -b html -d %s %s %s' % (
-            utils.SPHINX_DOCTREES, utils.SPHINX_SOURCE, utils.SPHINX_HTML))
+        # create local documentation respecting sphinx environment 
+        envExecutable = utils.getEnvironmentExecutable(utils.PATH_INI)
+        if envExecutable is not None:
+            os.system('%s -b html -d %s %s %s' % (
+                os.path.join(os.path.dirname(envExecutable), 'sphinx-build'), 
+                utils.SPHINX_DOCTREES, utils.SPHINX_SOURCE, utils.SPHINX_HTML))
+        else:
+            os.system('/usr/bin/sphinx-build -b html -d %s %s %s' % (
+                utils.SPHINX_DOCTREES, utils.SPHINX_SOURCE, utils.SPHINX_HTML))
     
     #---------------------------------------------------------------------------
     

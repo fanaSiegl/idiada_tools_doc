@@ -77,4 +77,18 @@ def getListOfLocations():
     return [location.strip() for location in locations] 
 
 #==============================================================================
+
+def getEnvironmentExecutable(configFilePath):
+         
+    config = configparser.ConfigParser()
+    
+    try:
+        cfgFileName = os.path.join(configFilePath, CONFIG_FILE)
+        config.read(cfgFileName)
+    
+        return config['GENERAL']['EXECUTABLE']
+    except Exception as e:
+        return None
+    
+#==============================================================================
     
