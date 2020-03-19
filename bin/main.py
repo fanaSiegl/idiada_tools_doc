@@ -45,7 +45,8 @@ class Tool(object):
         self.path = os.path.join(self.parent.path, self.name)
         
         self._txtContent = list()
-        self._version = ''
+#         self._version = ''
+        self.versions = list()
         self._revisionHistoryFileName = os.path.join(self.path, 'revision_history.rst')
         self._txtFileName = os.path.join(self.path, self.name + '.txt')
         self._showExtendedInfo = False
@@ -63,7 +64,12 @@ class Tool(object):
     #---------------------------------------------------------------------------
     
     def version(self):
-        return self._version
+        
+        if len(self.versions) > 0:
+            return self.versions[0]
+        else:
+            return 'N/A'
+#         return self._version
     
     #---------------------------------------------------------------------------
     
@@ -84,8 +90,9 @@ class Tool(object):
                 for line in lines:
                     match = re.match(self.VERSION_PATTERN, line)
                     if match:
-                        self._version = match.group(2)
-                        break
+                        self.versions.append(match.group(2))
+#                         self._version = match.group(2)
+#                         break
                     
             except Exception as e:
                 print('Failed to obtain tool version of: %s' % self.name)
@@ -143,6 +150,14 @@ class Tool(object):
                 prefix, versionInfo, suffix)
             
         return ''.join(self._txtContent)
+    
+    #---------------------------------------------------------------------------
+    
+    def getOneLineDescription(self):
+        
+        description = self._txtContent[self.DOCUMENTATON_DESCRIPTION_LINE_NO]
+        
+        return description.split('-')[-1].strip()
     
 
 #=============================================================================
@@ -309,7 +324,7 @@ Indices and tables
         ToolLocation.initiate()
         
         for groupName in sorted(ToolGroup.tools.keys()):            
-            tools = ToolGroup.tools[groupName]
+#             tools = ToolGroup.tools[groupName]
                 
             self.indexContent += self.getToolGroupString(groupName)
         
@@ -345,13 +360,30 @@ Indices and tables
         string = '\n%s\n' % groupName
         string += '%s\n' % str(len(groupName)*self.SPHINX_SECTION_HIERARCHY[0])
         return string
+    
+    #---------------------------------------------------------------------------
+    @classmethod
+    def getListOfTools(cls):
+        
+        ToolLocation.initiate()
+        
+        for groupName in sorted(ToolGroup.tools.keys()):            
+            
+            print(groupName)
+            tools = ToolGroup.getListOfTools(groupName)
+            for tool in tools:
+                print(tool.isLocal(), tool.name, tool.version(), tool.getOneLineDescription())
                 
 
 #=============================================================================
 
 def main():
     
-    documentation = ToolDocumentation()     
+    ToolDocumentation.getListOfTools()
+    
+    
+    return
+    documentation = ToolDocumentation()
     documentation.create()
     
     print("Build finished.")
