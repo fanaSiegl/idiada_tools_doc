@@ -1,0 +1,4 @@
+.. _pyProjectInstaller: ./IN/development_tools/pyProjectInstaller/pyProjectInstaller.html
+
+`pyProjectInstaller`_ - script for new python project installation.
+

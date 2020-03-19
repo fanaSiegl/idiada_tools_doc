@@ -1,0 +1,4 @@
+.. _solverOutputAnalysisApp: ./CZ/solver_output_analysis/solverOutputAnalysisApp/solverOutputAnalysisApp.html
+
+`solverOutputAnalysisApp`_ - Reads and analyses the msg, dat and sta file
+

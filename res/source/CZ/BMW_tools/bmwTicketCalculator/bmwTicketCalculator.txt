@@ -1,0 +1,4 @@
+.. _bmwTicketCalculator: ./CZ/BMW_tools/bmwTicketCalculator/bmwTicketCalculator.html
+
+`bmwTicketCalculator`_ - Tool for generating eBAS tickets from worked hours
+

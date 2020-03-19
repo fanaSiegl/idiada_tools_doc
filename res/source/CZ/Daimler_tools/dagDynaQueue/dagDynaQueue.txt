@@ -1,0 +1,4 @@
+.. _dagDynaQueue: ./CZ/Daimler_tools/dagDynaQueue/dagDynaQueue.html
+
+`dagDynaQueue`_ - Script for starting LS-Dyna on German local machines.
+

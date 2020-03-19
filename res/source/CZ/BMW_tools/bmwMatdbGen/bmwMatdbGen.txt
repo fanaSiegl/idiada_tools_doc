@@ -1,0 +1,4 @@
+.. _bmwMatdbGen: ./CZ/BMW_tools/bmwMatdbGen/bmwMatdbGen.html
+
+`bmwMatdbGen`_ - Script create abaqus info-matdb.include from encrypted bmw material database.
+

@@ -1,0 +1,4 @@
+.. _runLocalAba: ./CZ/ABAQUS_tools/runLocalAba/runLocalAba.html
+
+`runLocalAba`_ - Python scripts for running local ABAQUS.
+

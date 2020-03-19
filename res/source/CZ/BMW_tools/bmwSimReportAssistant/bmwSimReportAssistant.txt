@@ -1,0 +1,4 @@
+.. _bmwSimReportAssistant: ./CZ/BMW_tools/bmwSimReportAssistant/bmwSimReportAssistant.html
+
+`bmwSimReportAssistant`_ - Python script for preparing a presentation for BMW StdAuswertung SimReport.
+

@@ -1,0 +1,4 @@
+.. _newPyProject: ./IN/development_tools/newPyProject/newPyProject.html
+
+`newPyProject`_ - script for new python project creation
+

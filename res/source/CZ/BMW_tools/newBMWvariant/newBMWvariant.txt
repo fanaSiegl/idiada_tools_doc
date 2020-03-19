@@ -1,0 +1,4 @@
+.. _newBMWvariant: ./CZ/BMW_tools/newBMWvariant/newBMWvariant.html
+
+`newBMWvariant`_ - Python script for new variant creation.
+

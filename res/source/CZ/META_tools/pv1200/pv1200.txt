@@ -1,0 +1,4 @@
+.. _pv1200: ./CZ/META_tools/pv1200/pv1200.html
+
+`pv1200`_ - Toolbar - Gap evaluation for PV1200
+

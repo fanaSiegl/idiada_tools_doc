@@ -1,0 +1,4 @@
+.. _abqKeywordBlocksMerger: ./CZ/ABAQUS_tools/abqKeywordBlocksMerger/abqKeywordBlocksMerger.html
+
+`abqKeywordBlocksMerger`_ - Python3 script, that merges chosen keyword blocks between two abaqus includes.
+

@@ -1,0 +1,4 @@
+.. _globalContact: ./CZ/ANSA_tools/globalContact/globalContact.html
+
+`globalContact`_ - Creates the global contact between parts
+

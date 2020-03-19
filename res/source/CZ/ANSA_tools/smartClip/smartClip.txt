@@ -1,0 +1,4 @@
+.. _smartClip: ./CZ/ANSA_tools/smartClip/smartClip.html
+
+`smartClip`_ - tool to make the clip definition as easy as possible
+

@@ -1,0 +1,4 @@
+.. _audiSideCrashPresentationCreator: ./CZ/AUDI_tools/audiSideCrashPresentationCreator/audiSideCrashPresentationCreator.html
+
+`audiSideCrashPresentationCreator`_ - Python script for the standard side crash presentation creation.
+

@@ -1,0 +1,4 @@
+.. _pptCreateFromXls: ./CZ/MS_Office_tools/pptCreateFromXls/pptCreateFromXls.html
+
+`pptCreateFromXls`_ - Python script for generation of Powerpoint presentation based on CSV or Excel, or updating existing presentation with new pictures
+

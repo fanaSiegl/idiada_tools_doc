@@ -1,0 +1,4 @@
+.. _bmwCableScript: ./IN/ANSA_tools/bmwCableScript/bmwCableScript.html
+
+`bmwCableScript`_ - ANSA button for BEAM cable creation.
+

@@ -1,0 +1,4 @@
+.. _bmwAxleAssembler: ./CZ/BMW_tools/bmwAxleAssembler/bmwAxleAssembler.html
+
+`bmwAxleAssembler`_ - Python3 script, that assembles or disassemles axle (HA, VA) includes.
+

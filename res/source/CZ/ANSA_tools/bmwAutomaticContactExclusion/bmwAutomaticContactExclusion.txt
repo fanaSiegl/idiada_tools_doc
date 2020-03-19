@@ -1,0 +1,4 @@
+.. _bmwAutomaticContactExclusion: ./CZ/ANSA_tools/bmwAutomaticContactExclusion/bmwAutomaticContactExclusion.html
+
+`bmwAutomaticContactExclusion`_ - ANSA button for automatic creation of ABAQUS contact exclusion for BMW includes.
+

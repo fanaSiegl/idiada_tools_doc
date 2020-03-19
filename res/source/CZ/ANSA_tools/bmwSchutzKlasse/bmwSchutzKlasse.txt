@@ -1,0 +1,4 @@
+.. _bmwSchutzKlasse: ./CZ/ANSA_tools/bmwSchutzKlasse/bmwSchutzKlasse.html
+
+`bmwSchutzKlasse`_ - ANSA button for Schutz Klasse sets/include definition.
+

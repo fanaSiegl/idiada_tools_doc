@@ -1,0 +1,4 @@
+.. _mpc2beams: ./CZ/ANSA_tools/mpc2beams/mpc2beams.html
+
+`mpc2beams`_ - tool for a conversion of ABAQUS MPC to BEAM respecting connected materials
+

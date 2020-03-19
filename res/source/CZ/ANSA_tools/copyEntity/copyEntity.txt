@@ -1,0 +1,4 @@
+.. _copyEntity: ./CZ/ANSA_tools/copyEntity/copyEntity.html
+
+`copyEntity`_ - Python script for copying entities.
+

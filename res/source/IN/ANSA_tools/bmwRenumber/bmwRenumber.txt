@@ -1,0 +1,4 @@
+.. _bmwRenumber: ./IN/ANSA_tools/bmwRenumber/bmwRenumber.html
+
+`bmwRenumber`_ - ANSA button for renumbering according to BMW MOKA requirements.
+

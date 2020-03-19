@@ -1,0 +1,4 @@
+.. _symCopyContacts: ./CZ/ANSA_tools/symCopyContacts/symCopyContacts.html
+
+`symCopyContacts`_ - tool for creating symmetrical contacts
+

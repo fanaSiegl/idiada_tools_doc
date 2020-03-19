@@ -1,0 +1,4 @@
+.. _checks: ./CZ/ANSA_tools/checks/checks.html
+
+`checks`_ - IDIADA ANSA checks documentation.
+

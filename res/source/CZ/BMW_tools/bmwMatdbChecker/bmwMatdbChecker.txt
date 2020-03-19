@@ -1,0 +1,4 @@
+.. _bmwMatdbChecker: ./CZ/BMW_tools/bmwMatdbChecker/bmwMatdbChecker.html
+
+`bmwMatdbChecker`_ - Checks whether include contains obsolete BMW MatDB.
+

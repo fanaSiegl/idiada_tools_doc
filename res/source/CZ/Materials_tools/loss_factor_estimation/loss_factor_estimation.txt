@@ -1,0 +1,4 @@
+.. _loss_factor_estimation: ./CZ/Materials_tools/loss_factor_estimation/loss_factor_estimation.html
+
+`loss_factor_estimation`_ - Loss factor estimation
+

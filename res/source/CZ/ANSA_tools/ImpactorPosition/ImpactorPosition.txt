@@ -1,0 +1,4 @@
+.. _ImpactorPosition: ./CZ/ANSA_tools/ImpactorPosition/ImpactorPosition.html
+
+`ImpactorPosition`_ - The script for a set of given geometrical points rotates and translates the impactor.
+

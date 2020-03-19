@@ -1,0 +1,4 @@
+.. _pictures: ./CZ/META_tools/pictures/pictures.html
+
+`pictures`_ - META toolbar for picture generation
+

@@ -1,0 +1,4 @@
+.. _abaNMAPCreator: ./CZ/ABAQUS_tools/abaNMAPCreator/abaNMAPCreator.html
+
+`abaNMAPCreator`_ - Script for creating NMAP based on a pair of 3 points coordinates.
+

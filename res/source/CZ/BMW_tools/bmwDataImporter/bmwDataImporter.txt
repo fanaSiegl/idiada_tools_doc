@@ -1,0 +1,4 @@
+.. _bmwDataImporter: ./CZ/BMW_tools/bmwDataImporter/bmwDataImporter.html
+
+`bmwDataImporter`_ - Python script for based on cb2tools for BMW data import.
+

@@ -1,0 +1,4 @@
+.. _bmwBoxMesh: ./CZ/ANSA_tools/bmwBoxMesh/bmwBoxMesh.html
+
+`bmwBoxMesh`_ - ANSA button for CAD box simlification.
+

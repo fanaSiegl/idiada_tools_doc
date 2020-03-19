@@ -1,0 +1,4 @@
+.. _bmwParamStep: ./CZ/BMW_tools/bmwParamStep/bmwParamStep.html
+
+`bmwParamStep`_ - Python script for creating parametric ABAQUS STEP files for rear crash.
+

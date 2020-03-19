@@ -1,0 +1,4 @@
+.. _bmwConnIncl: ./CZ/ANSA_tools/bmwConnIncl/bmwConnIncl.html
+
+`bmwConnIncl`_ - ANSA button for automatic creation of conn include according to BMW MOKA requirements.
+

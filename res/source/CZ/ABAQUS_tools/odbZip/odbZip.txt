@@ -1,0 +1,4 @@
+.. _odbZip: ./CZ/ABAQUS_tools/odbZip/odbZip.html
+
+`odbZip`_ - Python script for ".odb" file archiving and additional ABAQUS analysis clean up.
+

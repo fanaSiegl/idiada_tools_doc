@@ -1,0 +1,4 @@
+.. _pid2part: ./CZ/ANSA_tools/pid2part/pid2part.html
+
+`pid2part`_ - creates ANSA PART structure based on PID name for easier orientation in the model
+

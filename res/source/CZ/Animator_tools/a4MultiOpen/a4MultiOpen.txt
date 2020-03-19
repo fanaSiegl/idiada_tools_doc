@@ -1,0 +1,4 @@
+.. _a4MultiOpen: ./CZ/Animator_tools/a4MultiOpen/a4MultiOpen.html
+
+`a4MultiOpen`_ - Bash script for loading of multiple a4db files.
+

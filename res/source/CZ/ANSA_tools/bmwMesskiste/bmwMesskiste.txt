@@ -1,0 +1,4 @@
+.. _bmwMesskiste: ./CZ/ANSA_tools/bmwMesskiste/bmwMesskiste.html
+
+`bmwMesskiste`_ - Python script for *.sensors file creating used in *.sensors-xlsm-cfg-inc "Messkiste" workflow.
+

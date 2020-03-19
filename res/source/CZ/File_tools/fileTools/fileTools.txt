@@ -1,0 +1,4 @@
+.. _fileTools: ./CZ/File_tools/fileTools/fileTools.html
+
+`fileTools`_ - Python application for multi-file modification.
+

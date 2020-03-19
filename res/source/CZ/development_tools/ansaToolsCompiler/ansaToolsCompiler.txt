@@ -1,0 +1,4 @@
+.. _ansaToolsCompiler: ./CZ/development_tools/ansaToolsCompiler/ansaToolsCompiler.html
+
+`ansaToolsCompiler`_ - ANSA-button-based script for compiling and exporting existing ansaTools.
+

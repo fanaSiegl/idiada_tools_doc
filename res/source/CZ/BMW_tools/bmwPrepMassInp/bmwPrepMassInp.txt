@@ -1,0 +1,4 @@
+.. _bmwPrepMassInp: ./CZ/BMW_tools/bmwPrepMassInp/bmwPrepMassInp.html
+
+`bmwPrepMassInp`_ - Py3 script, that helps you with modifying inputdeck for masstrim with manual submit via flowguide or perl datacheck.
+

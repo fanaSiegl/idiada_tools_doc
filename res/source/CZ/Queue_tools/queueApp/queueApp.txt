@@ -1,0 +1,4 @@
+.. _queueApp: ./CZ/Queue_tools/queueApp/queueApp.html
+
+`queueApp`_ - Python SGE monitoring and submitting application.
+
