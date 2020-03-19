@@ -1,0 +1,4 @@
+.. _ttx: ./CZ/tool_documentation_group/ttx/ttx.html
+
+`ttx`_ - Python application one line description.
+

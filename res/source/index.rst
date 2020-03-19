@@ -38,13 +38,13 @@ ANSA tools
 
 `bmwAutomaticContactExclusion`_ - ANSA button for automatic creation of ABAQUS contact exclusion for BMW includes.
 
-.. _bmwBoxMesh (remote IN): ./IN/ANSA_tools/bmwBoxMesh/bmwBoxMesh.html
+.. _bmwBoxMesh: ./CZ/ANSA_tools/bmwBoxMesh/bmwBoxMesh.html
 
-`bmwBoxMesh (remote IN)`_ - ANSA button for CAD box simlification.
+`bmwBoxMesh`_ - ANSA button for CAD box simlification.
 
-.. _bmwCableScript (remote IN): ./IN/ANSA_tools/bmwCableScript/bmwCableScript.html
+.. _bmwCableScript: ./CZ/ANSA_tools/bmwCableScript/bmwCableScript.html
 
-`bmwCableScript (remote IN)`_ - ANSA button for BEAM cable creation.
+`bmwCableScript`_ - ANSA button for BEAM cable creation.
 
 .. _bmwConnIncl: ./CZ/ANSA_tools/bmwConnIncl/bmwConnIncl.html
 
@@ -54,29 +54,25 @@ ANSA tools
 
 `bmwMesskiste`_ - Python script for *.sensors file creating used in *.sensors-xlsm-cfg-inc "Messkiste" workflow.
 
-.. _bmwRenumber (V.0.0.5, local): ./CZ/ANSA_tools/bmwRenumber/bmwRenumber.html
+.. _bmwRenumber: ./CZ/ANSA_tools/bmwRenumber/bmwRenumber.html
 
-`bmwRenumber (V.0.0.5, local)`_ - ANSA button for renumbering according to BMW MOKA requirements.
+`bmwRenumber`_ - ANSA button for renumbering according to BMW MOKA requirements.
 
-.. _bmwRenumber (V.0.0.10, remote IN): ./IN/ANSA_tools/bmwRenumber/bmwRenumber.html
+.. _bmwSchutzKlasse: ./CZ/ANSA_tools/bmwSchutzKlasse/bmwSchutzKlasse.html
 
-`bmwRenumber (V.0.0.10, remote IN)`_ - ANSA button for renumbering according to BMW MOKA requirements.
-
-.. _bmwSchutzKlasse (remote IN): ./IN/ANSA_tools/bmwSchutzKlasse/bmwSchutzKlasse.html
-
-`bmwSchutzKlasse (remote IN)`_ - ANSA button for Schutz Klasse sets/include definition.
+`bmwSchutzKlasse`_ - ANSA button for Schutz Klasse sets/include definition.
 
 .. _checks: ./CZ/ANSA_tools/checks/checks.html
 
 `checks`_ - IDIADA ANSA checks documentation.
 
-.. _clip (remote DE): ./DE/ANSA_tools/clip/clip.html
-
-`clip (remote DE)`_ - tool for creating clips
-
 .. _coorSys4gaps: ./CZ/ANSA_tools/coorSys4gaps/coorSys4gaps.html
 
 `coorSys4gaps`_ - tool to create local coordinate systems for gap measurement in META
+
+.. _copyEntity: ./CZ/ANSA_tools/copyEntity/copyEntity.html
+
+`copyEntity`_ - Python script for copying entities.
 
 .. _globalContact: ./CZ/ANSA_tools/globalContact/globalContact.html
 
@@ -193,7 +189,7 @@ META tools
 
 .. _META_gaps_evaluation: ./CZ/META_tools/META_gaps_evaluation/META_gaps_evaluation.html
 
-`META_gaps_evaluation`_ - Toolbar - Gap evaluation for temperature analysis
+`META_gaps_evaluation`_ - META toolbar for gap evaluation.
 
 .. _bumpers: ./CZ/META_tools/bumpers/bumpers.html
 
@@ -214,13 +210,9 @@ META tools
 
 MS Office tools
 ---------------
-.. _pptCreateFromXls (V.3.0.0, local): ./CZ/MS_Office_tools/pptCreateFromXls/pptCreateFromXls.html
+.. _pptCreateFromXls: ./CZ/MS_Office_tools/pptCreateFromXls/pptCreateFromXls.html
 
-`pptCreateFromXls (V.3.0.0, local)`_ - Python script for generation of Powerpoint presentation based on CSV or Excel, or updating existing presentation with new pictures
-
-.. _pptCreateFromXls (V.2.0.0, remote IN): ./IN/MS_Office_tools/pptCreateFromXls/pptCreateFromXls.html
-
-`pptCreateFromXls (V.2.0.0, remote IN)`_ - Python script for generation of Powerpoint presentation based on CSV.
+`pptCreateFromXls`_ - Python script for generation of Powerpoint presentation based on CSV or Excel, or updating existing presentation with new pictures
 
 
 Material tools
@@ -269,13 +261,9 @@ development tools
 
 material database
 -----------------
-.. _material_db (V.0.0.14, local): ./CZ/material_database/material_db/material_db.html
+.. _material_db: ./CZ/material_database/material_db/material_db.html
 
-`material_db (V.0.0.14, local)`_ - Python application for material property comparison.
-
-.. _material_db (V.0.0.13, remote DE): ./DE/material_database/material_db/material_db.html
-
-`material_db (V.0.0.13, remote DE)`_ - Python application for material property comparison.
+`material_db`_ - Python application for material property comparison.
 
 
 solver output analysis
