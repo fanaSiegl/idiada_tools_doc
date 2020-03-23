@@ -1,6 +1,0 @@
-
-Material export
-===============
-
-Material export
-
