@@ -1,0 +1,4 @@
+.. _test_remote_tool_02: ./IN/tool_documentation_group/test_remote_tool_02/test_remote_tool_02.html
+
+`test_remote_tool_02`_ - Python application one line description.
+
