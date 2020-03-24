@@ -1,4 +1,0 @@
-.. _tool_documentation: ./CZ/development_tools/tool_documentation/tool_documentation.html
-
-`tool_documentation`_ - script for IDIADA tools documentation generation.
-
