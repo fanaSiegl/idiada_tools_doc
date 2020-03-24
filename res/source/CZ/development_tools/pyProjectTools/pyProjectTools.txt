@@ -1,0 +1,4 @@
+.. _pyProjectTools: ./CZ/development_tools/pyProjectTools/pyProjectTools.html
+
+`pyProjectTools`_ - script for new python project installation.
+
