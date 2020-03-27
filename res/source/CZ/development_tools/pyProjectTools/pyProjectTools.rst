@@ -1,16 +1,36 @@
 pyProjectTools documentation
 ============================
-
+    
 .. toctree::
    :maxdepth: 2
-   
+    
 
 
+    
 pyProjectTools
 ==============
 
-Is a package of tools which are supposed to be used to create, install and document python-based scripts.
+.. image:: images/idiada_tools_logo.png
+    :width: 200pt
+    :align: center 
     
+Is a package of tools which are supposed to be used to create, install and document python-based scripts.
+
+Usage
+-----
+
+usage::
+
+    pyProjectTools [-h] [-initiateAnsaToolkit] [-initiateDoc]
+    
+    optional arguments:
+      -h, --help            show this help message and exit
+      -initiateAnsaToolkit  Initiates ansa_toolkit data structure (a package for
+                            user user script buttons, plugins and checks loading
+                            to ANSA).
+      -initiateDoc          Initiates IDIADA tools documentation data structure.
+
+
 newPyProject
 ============
 
@@ -86,7 +106,7 @@ Usage
 
 usage::
 
-    doc [-h] [-init]
+    doc [-h] [-init] [-update] [-sync]
 
     optional arguments:
       -h, --help  show this help message and exit
