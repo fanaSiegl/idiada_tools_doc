@@ -4,23 +4,17 @@ Revision history
 
 Revision history graph::
     
-       * commit db278a2 (HEAD, tag: V.0.2.0, origin/master, origin/HEAD, master)
+       * commit 5bbe20b (HEAD, tag: V.0.1.24, origin/master, origin/HEAD, master)
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
-   | Date:   Fri Mar 27 09:08:59 2020 +0100
+   | Date:   Fri Mar 27 14:34:57 2020 +0100
    | 
-   |     ere
+   |     Bug fix.
    |  
-   * commit 916ee04
+   * commit b27817c
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
-   | Date:   Fri Mar 27 08:52:26 2020 +0100
+   | Date:   Fri Mar 27 13:18:14 2020 +0100
    | 
-   |     wergfre
-   |  
-   * commit c2d4d6e
-   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
-   | Date:   Fri Mar 27 08:17:53 2020 +0100
-   | 
-   |     sger
+   |     Structure simplified, plist generation moved to pyProjectTools. ANSA checks repository will contain ANSA checks only..
    |  
    * commit 3b8f5db
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>

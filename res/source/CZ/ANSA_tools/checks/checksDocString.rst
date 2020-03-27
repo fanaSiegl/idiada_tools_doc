@@ -19,4 +19,3 @@
     check_PAM_parts_ex_fix_nissan.rst
     check_PAM_parts_excel.rst
     check_PAM_tied_skoda_ex_fix.rst
-    check_elementNameCheck.rst
