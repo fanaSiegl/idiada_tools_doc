@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit bca7902 (HEAD, tag: V.2.0.1)
+       * commit 962bfea (HEAD, tag: V.2.0.1)
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Fri Mar 27 16:21:56 2020 +0100
+   | 
+   |     ansaPlistUpdater funtionality implemented to pyProjectTools. ANSA checks initialisation implemented (pyProjectTools -initiateAnsaToolkit). - structured doc created.
+   |  
+   * commit 5825db5
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
    | Date:   Fri Mar 27 14:48:52 2020 +0100
    | 
