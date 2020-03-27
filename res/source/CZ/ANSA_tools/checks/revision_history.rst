@@ -4,7 +4,49 @@ Revision history
 
 Revision history graph::
     
-       * commit e43349e (HEAD, tag: V.0.1.23, master)
+       * commit db278a2 (HEAD, tag: V.0.2.0, origin/master, origin/HEAD, master)
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Fri Mar 27 09:08:59 2020 +0100
+   | 
+   |     ere
+   |  
+   * commit 916ee04
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Fri Mar 27 08:52:26 2020 +0100
+   | 
+   |     wergfre
+   |  
+   * commit c2d4d6e
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Fri Mar 27 08:17:53 2020 +0100
+   | 
+   |     sger
+   |  
+   * commit 3b8f5db
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Thu Mar 26 10:32:32 2020 +0100
+   | 
+   |     -init option added to copy and generate plist in default location defined in config.ini file
+   |  
+   * commit 21fc06a
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Wed Mar 25 17:53:35 2020 +0100
+   | 
+   |     All directories present in "res/checks"are copied to the installation folder (directories "_*" are skipped). This should offer config file options..
+   |  
+   * commit ec448a3
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Wed Mar 25 09:53:26 2020 +0100
+   | 
+   |     Ansa executable and path settings moved to config.ini file for easier setup.
+   |  
+   * commit 0e4a6a2
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Tue Mar 24 17:04:26 2020 +0100
+   | 
+   |     List of checks should be sorted for easier orientation..
+   |  
+   * commit e43349e (tag: V.0.1.23)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Tue Mar 10 14:49:06 2020 +0100
    | 
