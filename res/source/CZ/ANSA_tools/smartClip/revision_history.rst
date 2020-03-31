@@ -4,7 +4,19 @@ Revision history
 
 Revision history graph::
     
-       * commit 8dc6ff7 (HEAD, tag: V.0.2.0)
+       * commit 434b375 (HEAD, tag: V.0.2.1)
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Tue Mar 31 16:29:58 2020 +0200
+   | 
+   |     New beam types added.
+   |  
+   * commit 853dae2
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Tue Mar 31 16:22:11 2020 +0200
+   | 
+   |     Daimler SOLO and CHANNEL beam types implemented.
+   |  
+   * commit 8dc6ff7 (tag: V.0.2.0)
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
    | Date:   Thu Dec 12 19:26:01 2019 +0100
    | 
