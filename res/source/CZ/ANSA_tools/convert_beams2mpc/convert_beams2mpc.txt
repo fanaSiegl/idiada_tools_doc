@@ -1,0 +1,4 @@
+.. _convert_beams2mpc: ./CZ/ANSA_tools/convert_beams2mpc/convert_beams2mpc.html
+
+`convert_beams2mpc`_ - Convert the BEAM cluster to MPC.
+
