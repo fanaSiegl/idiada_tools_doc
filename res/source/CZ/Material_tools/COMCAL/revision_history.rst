@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 11b9ee8 (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+       * commit 02f9ee1 (origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Thu Apr 2 10:47:59 2020 +0200
+   | 
+   |     test commit
+   |  
+   * commit 11b9ee8 (HEAD, tag: V.0.0.2)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Thu Apr 2 10:32:55 2020 +0200
    | 

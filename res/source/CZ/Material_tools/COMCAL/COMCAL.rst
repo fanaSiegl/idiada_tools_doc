@@ -16,21 +16,10 @@ COMCAL is an app that calibrates composite materials in both elastic and plastic
 Usage
 -----
 
-usage::
-
-    project_name [input parameter]
-
-example::
-
-    project_name "input parameter"
 
 Remarks
 -------
 
-.. warning::
-    
-    Requires something
-    
 * requires something
 * does something
 * creates something as an output
