@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 8912098 (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
+       * commit 11b9ee8 (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Thu Apr 2 10:32:55 2020 +0200
+   | 
+   |     conda executable change
+   |  
+   * commit 8912098 (tag: V.0.0.1)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Wed Apr 1 16:11:06 2020 +0200
    | 
