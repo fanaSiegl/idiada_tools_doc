@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit a33d213 (HEAD, tag: V.0.0.10, origin/master, origin/HEAD, master)
+       * commit e1351e0 (HEAD, tag: V.0.0.11, origin/master, origin/HEAD, master)
+   | Author: Lukas Kratochvila <lukas.kratochvila@idiada.cz>
+   | Date:   Fri Apr 3 13:38:50 2020 +0200
+   | 
+   |     correct t-all numbering based on first NID
+   |  
+   * commit a33d213 (tag: V.0.0.10)
    | Author: Lukas Kratochvila <lukas.kratochvila@idiada.cz>
    | Date:   Fri Feb 28 13:28:45 2020 +0100
    | 
