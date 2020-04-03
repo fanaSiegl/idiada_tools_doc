@@ -1,6 +1,3 @@
-bmwRenumber documentation
-=========================
-
 .. toctree::
    :maxdepth: 2
 

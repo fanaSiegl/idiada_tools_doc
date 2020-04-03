@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit e1351e0 (HEAD, tag: V.0.0.11, origin/master, origin/HEAD, master)
+       * commit bd3b16d (HEAD, tag: V.0.0.12, origin/master, origin/HEAD, master)
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Fri Apr 3 17:49:39 2020 +0200
+   | 
+   |     Documentation source files updated, data loading from picked object.
+   |  
+   * commit e1351e0 (tag: V.0.0.11)
    | Author: Lukas Kratochvila <lukas.kratochvila@idiada.cz>
    | Date:   Fri Apr 3 13:38:50 2020 +0200
    | 
