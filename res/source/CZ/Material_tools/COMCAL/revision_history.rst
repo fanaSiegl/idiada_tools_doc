@@ -4,7 +4,19 @@ Revision history
 
 Revision history graph::
     
-       * commit 7995cc6 (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+       * commit c70dc18 (HEAD, tag: V.0.0.4, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Fri Apr 3 15:32:24 2020 +0200
+   | 
+   |     added callback msgs
+   |  
+   * commit 456a41b
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Fri Apr 3 15:30:36 2020 +0200
+   | 
+   |     added callback messages and pop up error messages
+   |  
+   * commit 7995cc6 (tag: V.0.0.3)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Fri Apr 3 12:14:47 2020 +0200
    | 
