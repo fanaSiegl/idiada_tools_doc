@@ -1,0 +1,4 @@
+.. _bmwDecomposeInp: ./CZ/ANSA_tools/bmwDecomposeInp/bmwDecomposeInp.html
+
+`bmwDecomposeInp`_ - ANSA button for ABAQUS *.inp file decomposition into includes.
+
