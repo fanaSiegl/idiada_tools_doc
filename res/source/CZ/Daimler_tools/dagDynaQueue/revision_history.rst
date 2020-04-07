@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit b0e4aa4 (HEAD, tag: V.0.0.14, origin/master, origin/HEAD, master)
+       * commit ec163be (HEAD, tag: V.0.0.15, origin/master, origin/HEAD, master)
+   | Author: Martin Bulko <martin.bulko@idiada.cz>
+   | Date:   Tue Apr 7 11:21:48 2020 +0200
+   | 
+   |     Searching for includes starting with a digit added
+   |  
+   * commit b0e4aa4 (tag: V.0.0.14)
    | Author: Martin Bulko <martin.bulko@idiada.cz>
    | Date:   Mon Feb 24 17:50:18 2020 +0100
    | 
