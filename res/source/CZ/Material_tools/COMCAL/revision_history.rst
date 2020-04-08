@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit c70dc18 (HEAD, tag: V.0.0.4, origin/master, origin/HEAD, master)
+       * commit 11d69ea (HEAD, tag: V.0.0.5, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Wed Apr 8 19:39:49 2020 +0200
+   | 
+   |     added abaqus plasticity functionality
+   |  
+   * commit c70dc18 (tag: V.0.0.4)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Fri Apr 3 15:32:24 2020 +0200
    | 
