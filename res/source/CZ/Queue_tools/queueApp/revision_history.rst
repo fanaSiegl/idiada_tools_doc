@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 5eaa0f7 (HEAD, tag: V.0.1.10, origin/master, origin/HEAD, master)
+       * commit d0984b0 (HEAD, tag: V.0.1.11, origin/master, origin/HEAD, master)
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Wed Apr 8 13:48:04 2020 +0200
+   | 
+   |     TOSCA support implemented. Recursive include search implemented.
+   |  
+   * commit 5eaa0f7 (tag: V.0.1.10)
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
    | Date:   Thu Feb 6 10:26:45 2020 +0100
    | 
