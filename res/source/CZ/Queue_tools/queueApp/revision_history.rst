@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit d0984b0 (HEAD, tag: V.0.1.11, origin/master, origin/HEAD, master)
+       * commit 7fb28dc (HEAD, tag: V.0.1.12, origin/master, origin/HEAD, master)
+   | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
+   | Date:   Thu Apr 9 11:35:04 2020 +0200
+   | 
+   |     TOSCA executable settings modified, TOCSA CPU number implemented.
+   |  
+   * commit d0984b0 (tag: V.0.1.11)
    | Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
    | Date:   Wed Apr 8 13:48:04 2020 +0200
    | 
