@@ -4,7 +4,23 @@ Revision history
 
 Revision history graph::
     
-       * commit 11d69ea (HEAD, tag: V.0.0.5, origin/master, origin/HEAD, master)
+       * commit b3c1f27 (HEAD, tag: V.0.0.6, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Thu Apr 9 12:31:21 2020 +0200
+   | 
+   |     *gui bugs patch
+   |     *plots refreshing, elast tab results update...
+   |  
+   * commit 0d697de
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Thu Apr 9 12:27:21 2020 +0200
+   | 
+   |     bugs fixes update
+   |     - plots are now refreshing
+   |     - enable/disable start opt button fixes
+   |     - results in elastic tab are now filled properly
+   |  
+   * commit 11d69ea (tag: V.0.0.5)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Wed Apr 8 19:39:49 2020 +0200
    | 
