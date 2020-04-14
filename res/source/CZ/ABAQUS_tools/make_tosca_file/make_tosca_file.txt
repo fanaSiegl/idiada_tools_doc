@@ -1,0 +1,4 @@
+.. _make_tosca_file: ./CZ/ABAQUS_tools/make_tosca_file/make_tosca_file.html
+
+`make_tosca_file`_ - The program make the *par file based the *.inp file.
+
