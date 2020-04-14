@@ -1,0 +1,4 @@
+.. _pretensionTighteningTorqueConvertor: ./CZ/screwsTools/pretensionTighteningTorqueConvertor/pretensionTighteningTorqueConvertor.html
+
+`pretensionTighteningTorqueConvertor`_ - Python script to calculate tightening torque from user supplied pretension force or pretension force from user supplied tightening torque.
+
