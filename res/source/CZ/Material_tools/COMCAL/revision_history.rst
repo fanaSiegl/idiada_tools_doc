@@ -4,7 +4,37 @@ Revision history
 
 Revision history graph::
     
-       * commit 173f228 (HEAD, tag: V.0.0.7, origin/master, origin/HEAD, master)
+       * commit efd472e (HEAD, tag: V.0.0.8, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Tue Apr 14 20:26:01 2020 +0200
+   | 
+   |     fixed wrong reference to constraints
+   |  
+   * commit be27162
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Tue Apr 14 19:42:56 2020 +0200
+   | 
+   |     minor tweaks
+   |  
+   * commit 3d3451c
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Tue Apr 14 19:18:12 2020 +0200
+   | 
+   |     added enable/disable feature in convergence settings window
+   |  
+   * commit 6ff7d4d
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Tue Apr 14 18:29:49 2020 +0200
+   | 
+   |     added boundaries to convergence settings
+   |  
+   * commit a76a547
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Mon Apr 13 19:09:40 2020 +0200
+   | 
+   |     added new solver settings window with new solver and scenario classes in base_items
+   |  
+   * commit 173f228 (tag: V.0.0.7)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Thu Apr 9 13:11:28 2020 +0200
    | 
