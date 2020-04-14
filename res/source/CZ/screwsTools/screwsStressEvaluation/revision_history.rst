@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit e466bdc (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+       * commit 46bc8db (HEAD, tag: V.0.0.4, origin/master, origin/HEAD, master)
+   | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
+   | Date:   Tue Apr 14 10:03:46 2020 +0200
+   | 
+   |     Changed path to res files.
+   |  
+   * commit e466bdc (tag: V.0.0.3)
    | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
    | Date:   Tue Apr 14 09:44:18 2020 +0200
    | 
