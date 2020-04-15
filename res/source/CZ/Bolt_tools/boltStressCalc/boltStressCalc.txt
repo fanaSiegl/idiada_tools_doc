@@ -1,0 +1,4 @@
+.. _boltStressCalc: ./CZ/Bolt_tools/boltStressCalc/boltStressCalc.html
+
+`boltStressCalc`_ - Python script to calculate tightening torque from predefined pretension and equivalent stress from section forces of beam elset from .dat file.
+
