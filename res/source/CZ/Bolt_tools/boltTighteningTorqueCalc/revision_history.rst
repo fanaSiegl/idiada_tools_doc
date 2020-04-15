@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit c8e1043 (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
+       * commit 2446a52 (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
+   | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
+   | Date:   Wed Apr 15 12:08:54 2020 +0200
+   | 
+   |     init commit
+   |  
+   * commit c8e1043
    | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
    | Date:   Tue Apr 14 10:32:14 2020 +0200
    | 

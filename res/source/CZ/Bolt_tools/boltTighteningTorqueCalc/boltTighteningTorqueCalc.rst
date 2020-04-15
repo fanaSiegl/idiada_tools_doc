@@ -21,11 +21,11 @@ Usage
 
 usage::
 
-    pretensionTighteningTorqueConvertor [input parameter]
+    boltTighteningTorqueCalc [input parameter]
 
 example::
 
-    pretensionTighteningTorqueConvertor "Inputs.txt"
+    boltTighteningTorqueCalc "Inputs.txt"
 
 Remarks
 -------
