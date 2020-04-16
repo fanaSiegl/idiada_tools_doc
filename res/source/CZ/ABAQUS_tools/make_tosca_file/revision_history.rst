@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 3846dc5 (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+       * commit adf55bd (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+   | Author: stekly <jan.stekly@idiada.cz>
+   | Date:   Thu Apr 16 22:28:20 2020 +0200
+   | 
+   |     fix the documentation
+   |  
+   * commit 3846dc5 (tag: V.0.0.2)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Wed Apr 15 18:54:31 2020 +0200
    | 
