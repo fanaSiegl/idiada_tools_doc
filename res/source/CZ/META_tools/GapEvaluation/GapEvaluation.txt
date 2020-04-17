@@ -1,0 +1,4 @@
+.. _GapEvaluation: ./CZ/META_tools/GapEvaluation/GapEvaluation.html
+
+`GapEvaluation`_ - Computes gaps change, creates plots, annotations, images, spreadsheets and a presentation.
+
