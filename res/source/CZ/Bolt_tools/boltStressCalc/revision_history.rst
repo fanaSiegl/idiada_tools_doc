@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 5dd8a07 (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
+       * commit 5097962 (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+   | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
+   | Date:   Fri Apr 17 10:35:32 2020 +0200
+   | 
+   |     corrected calculation of transversal force, changed the way how elset blocks are found
+   |  
+   * commit 5dd8a07 (tag: V.0.0.1)
    | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
    | Date:   Wed Apr 15 12:36:22 2020 +0200
    | 
