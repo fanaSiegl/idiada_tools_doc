@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 7daf9d3 (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+       * commit d7fa6dd (HEAD, tag: V.0.0.4, origin/master, origin/HEAD, master)
+   | Author: martinek <tomas.martinek@idiada.cz>
+   | Date:   Tue Apr 21 16:17:44 2020 +0200
+   | 
+   |     update of picture generator
+   |  
+   * commit 7daf9d3 (tag: V.0.0.3)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Mon Dec 2 16:28:45 2019 +0100
    | 
