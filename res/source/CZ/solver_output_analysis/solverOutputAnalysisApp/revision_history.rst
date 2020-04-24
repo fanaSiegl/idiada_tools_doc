@@ -4,7 +4,19 @@ Revision history
 
 Revision history graph::
     
-       * commit 8a650d2 (HEAD, tag: V.0.3.1, origin/master, origin/HEAD, master)
+       * commit 94d2273 (HEAD, tag: V.0.3.2, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Fri Apr 24 18:19:47 2020 +0200
+   | 
+   |     fixed popup messages in meta
+   |  
+   * commit 7cd0dff
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Fri Apr 24 18:05:05 2020 +0200
+   | 
+   |     added context menu on RMB in ListViews
+   |  
+   * commit 8a650d2 (tag: V.0.3.1)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Mon Feb 17 09:14:15 2020 +0100
    | 
