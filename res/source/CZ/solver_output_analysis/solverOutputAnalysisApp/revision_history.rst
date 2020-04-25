@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 94d2273 (HEAD, tag: V.0.3.2, origin/master, origin/HEAD, master)
+       * commit e9bd27f (HEAD, tag: V.0.3.3, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Sat Apr 25 18:30:50 2020 +0200
+   | 
+   |     information tab - mouse action tuning
+   |  
+   * commit 94d2273 (tag: V.0.3.2)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Fri Apr 24 18:19:47 2020 +0200
    | 
