@@ -4,7 +4,25 @@ Revision history
 
 Revision history graph::
     
-       * commit 5097962 (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+       * commit a096514 (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+   | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
+   | Date:   Mon Apr 27 12:33:38 2020 +0200
+   | 
+   |     Modified documentation string.
+   |  
+   * commit 33eccb4
+   | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
+   | Date:   Mon Apr 27 12:30:31 2020 +0200
+   | 
+   |     Modified documentation.
+   |  
+   * commit b9d3733
+   | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
+   | Date:   Mon Apr 27 10:49:05 2020 +0200
+   | 
+   |     Added more detailed documentation.
+   |  
+   * commit 5097962 (tag: V.0.0.2)
    | Author: Tomas Tisovsky <tomas.tisovsky@idiada.cz>
    | Date:   Fri Apr 17 10:35:32 2020 +0200
    | 
