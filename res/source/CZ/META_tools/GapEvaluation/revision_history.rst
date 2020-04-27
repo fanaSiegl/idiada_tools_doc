@@ -4,20 +4,14 @@ Revision history
 
 Revision history graph::
     
-       * commit 9cbf8dc (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+       * commit 89897c7 (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
    | Author: mirzov <ihor.mirzov@idiada.cz>
-   | Date:   Mon Apr 27 12:08:00 2020 +0200
+   | Date:   Mon Apr 27 15:49:09 2020 +0200
    | 
-   |     Added groups for model annotations
+   |     Initial commit
    |  
-   * commit 49b022e
+   * commit 6126b8c
      Author: mirzov <ihor.mirzov@idiada.cz>
-     Date:   Mon Apr 20 08:04:28 2020 +0200
+     Date:   Mon Apr 27 15:42:29 2020 +0200
      
          Initial commit.
-     
-   * commit c85db8d (tag: V.0.0.1)
-     Author: Frantisek Siegl <frantisek.siegl@idiada.cz>
-     Date:   Fri Apr 17 11:54:53 2020 +0200
-     
-         Files added to repository.
