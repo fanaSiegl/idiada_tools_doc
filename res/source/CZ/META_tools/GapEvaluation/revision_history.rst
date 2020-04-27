@@ -4,7 +4,7 @@ Revision history
 
 Revision history graph::
     
-       * commit 532a1b0 (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
+       * commit 532a1b0 (HEAD, tag: V.0.0.3, tag: V.0.0.1, origin/master, origin/HEAD, master)
    | Author: mirzov <ihor.mirzov@idiada.cz>
    | Date:   Mon Apr 27 16:44:26 2020 +0200
    | 
