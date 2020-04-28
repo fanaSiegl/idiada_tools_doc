@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit 4ef14da (HEAD, tag: V.0.0.2, origin/master, origin/HEAD, master)
+       * commit 77bcb80 (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+   | Author: stekly <jan.stekly@idiada.cz>
+   | Date:   Tue Apr 28 23:07:20 2020 +0200
+   | 
+   |     small fix
+   |  
+   * commit 4ef14da (tag: V.0.0.2)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Tue Apr 28 23:04:22 2020 +0200
    | 
