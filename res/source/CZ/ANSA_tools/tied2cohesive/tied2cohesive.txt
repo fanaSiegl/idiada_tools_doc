@@ -1,0 +1,4 @@
+.. _tied2cohesive: ./CZ/ANSA_tools/tied2cohesive/tied2cohesive.html
+
+`tied2cohesive`_ - The script convert the tieds to cohesive elements.
+

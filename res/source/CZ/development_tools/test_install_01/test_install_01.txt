@@ -1,4 +1,0 @@
-.. _test_install_01: ./CZ/development_tools/test_install_01/test_install_01.html
-
-`test_install_01`_ - Python application one line description.
-
