@@ -4,14 +4,14 @@ Revision history
 
 Revision history graph::
     
-       * commit cf81bcd (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
+       * commit 111123d (HEAD, tag: V.0.0.1, origin/master, origin/HEAD, master)
    | Author: mirzov <ihor.mirzov@idiada.cz>
-   | Date:   Wed Apr 29 08:46:34 2020 +0200
+   | Date:   Wed Apr 29 16:25:44 2020 +0200
    | 
-   |     First commit
+   |     Initial commit
    |  
-   * commit 2444c7e
+   * commit bb40118
      Author: mirzov <ihor.mirzov@idiada.cz>
-     Date:   Mon Apr 27 16:51:48 2020 +0200
+     Date:   Wed Apr 29 15:51:50 2020 +0200
      
          Initial commit.
