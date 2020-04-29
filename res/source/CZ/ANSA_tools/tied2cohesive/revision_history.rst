@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit cce5537 (HEAD, tag: V.0.0.5, origin/master, origin/HEAD, master)
+       * commit ab43dbf (HEAD, tag: V.0.0.6, origin/master, origin/HEAD, master)
+   | Author: stekly <jan.stekly@idiada.cz>
+   | Date:   Wed Apr 29 06:58:57 2020 +0200
+   | 
+   |     paste now works
+   |  
+   * commit cce5537 (tag: V.0.0.5)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Wed Apr 29 06:15:50 2020 +0200
    | 
