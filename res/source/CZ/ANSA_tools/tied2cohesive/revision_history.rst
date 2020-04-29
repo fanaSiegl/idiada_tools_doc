@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit f2cdfad (HEAD, tag: V.0.0.7, origin/master, origin/HEAD, master)
+       * commit 4cee7eb (HEAD, tag: V.0.0.8, origin/master, origin/HEAD, master)
+   | Author: stekly <jan.stekly@idiada.cz>
+   | Date:   Wed Apr 29 16:08:02 2020 +0200
+   | 
+   |     documentation update
+   |  
+   * commit f2cdfad (tag: V.0.0.7)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Wed Apr 29 15:25:20 2020 +0200
    | 
