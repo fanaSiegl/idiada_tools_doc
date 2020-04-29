@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit ab43dbf (HEAD, tag: V.0.0.6, origin/master, origin/HEAD, master)
+       * commit f2cdfad (HEAD, tag: V.0.0.7, origin/master, origin/HEAD, master)
+   | Author: stekly <jan.stekly@idiada.cz>
+   | Date:   Wed Apr 29 15:25:20 2020 +0200
+   | 
+   |     small fix - the origin TIEd was impoved
+   |  
+   * commit ab43dbf (tag: V.0.0.6)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Wed Apr 29 06:58:57 2020 +0200
    | 
