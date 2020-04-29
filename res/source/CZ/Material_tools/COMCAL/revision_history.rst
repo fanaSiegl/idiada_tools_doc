@@ -4,7 +4,25 @@ Revision history
 
 Revision history graph::
     
-       * commit d794a3d (HEAD, tag: V.0.0.9, origin/master, origin/HEAD, master)
+       * commit a94de5e (HEAD, tag: V.0.0.10, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Wed Apr 29 16:20:15 2020 +0200
+   | 
+   |     deleted pandas reference
+   |  
+   * commit 0e0c0af
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Wed Apr 29 16:12:05 2020 +0200
+   | 
+   |     pandas fix2
+   |  
+   * commit 438a28c
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Wed Apr 29 16:08:26 2020 +0200
+   | 
+   |     deleted pandas bindings
+   |  
+   * commit d794a3d (tag: V.0.0.9)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Wed Apr 29 08:57:56 2020 +0200
    | 
