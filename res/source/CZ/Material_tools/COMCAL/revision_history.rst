@@ -4,7 +4,19 @@ Revision history
 
 Revision history graph::
     
-       * commit efd472e (HEAD, tag: V.0.0.8, origin/master, origin/HEAD, master)
+       * commit d794a3d (HEAD, tag: V.0.0.9, origin/master, origin/HEAD, master)
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Wed Apr 29 08:57:56 2020 +0200
+   | 
+   |     conda env test
+   |  
+   * commit 204ccd9
+   | Author: Milos Cadek <milos.cadek@idiada.cz>
+   | Date:   Wed Apr 29 08:56:45 2020 +0200
+   | 
+   |     conda env test
+   |  
+   * commit efd472e (tag: V.0.0.8)
    | Author: Milos Cadek <milos.cadek@idiada.cz>
    | Date:   Tue Apr 14 20:26:01 2020 +0200
    | 
