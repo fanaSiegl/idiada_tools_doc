@@ -4,7 +4,13 @@ Revision history
 
 Revision history graph::
     
-       * commit cab4515 (HEAD, tag: V.0.0.4, origin/master, origin/HEAD, master)
+       * commit cce5537 (HEAD, tag: V.0.0.5, origin/master, origin/HEAD, master)
+   | Author: stekly <jan.stekly@idiada.cz>
+   | Date:   Wed Apr 29 06:15:50 2020 +0200
+   | 
+   |     small fix - paste
+   |  
+   * commit cab4515 (tag: V.0.0.4)
    | Author: stekly <jan.stekly@idiada.cz>
    | Date:   Tue Apr 28 23:31:37 2020 +0200
    | 
