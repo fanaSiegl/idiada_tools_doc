@@ -4,7 +4,19 @@ Revision history
 
 Revision history graph::
     
-       * commit e2176bc (HEAD, tag: V.0.0.3, origin/master, origin/HEAD, master)
+       * commit f64759f (HEAD, tag: V.0.0.4, origin/master, origin/HEAD, master)
+   | Author: mirzov <ihor.mirzov@idiada.cz>
+   | Date:   Thu Apr 30 10:37:22 2020 +0200
+   | 
+   |     Autohide model's CSYSes
+   |  
+   * commit 201e31e
+   | Author: mirzov <ihor.mirzov@idiada.cz>
+   | Date:   Thu Apr 30 10:28:51 2020 +0200
+   | 
+   |     Fixed META crash on get_annotation_groups
+   |  
+   * commit e2176bc (tag: V.0.0.3)
    | Author: mirzov <ihor.mirzov@idiada.cz>
    | Date:   Thu Apr 30 08:45:28 2020 +0200
    | 
