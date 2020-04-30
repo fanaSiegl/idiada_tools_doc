@@ -32,8 +32,9 @@ Usage
 Requirements
 ------------
 
-* designed for ANSA 20.1.1
 * works also for ANSA 19.1.1
+* in ANSA 20.1.1 is bug in function CreateConnectionFace therefore is better to stick 
+  to ANSA 19.1.1
 
 
 Revision history
